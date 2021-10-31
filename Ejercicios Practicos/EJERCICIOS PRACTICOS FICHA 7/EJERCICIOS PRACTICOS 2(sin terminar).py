@@ -1,0 +1,4 @@
+"""
+Secuencia de impares
+"""
+

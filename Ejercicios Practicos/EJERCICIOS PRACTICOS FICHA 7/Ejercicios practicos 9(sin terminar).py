@@ -1,0 +1,4 @@
+'''
+Validación de cuenta
+'''
+
